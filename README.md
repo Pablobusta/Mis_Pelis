@@ -1,17 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,Akira Kurosawa - Rapsody In August
 http://144.217.180.154/SERVIDOR_3/AKIRA%20KUROSAWA%20RHAPSODY%20IN%20AUGUST%20(RAPSODIA%20EN%20AGOSTO).mp4
-#EXTINF:-1 ,
+#EXTINF:-1 ,Alfred Hitchcock - Under Capricorn
 http://144.217.180.154/SERVIDOR_3/ALFRED%20HITCHCOCK%20ATORMENTADA%20(UNDER%20CAPRICORN).mp4
-#EXTINF:-1 ,
+#EXTINF:-1 ,Alfred Hitchcock - North By Northwest
 http://144.217.180.154/SERVIDOR_3/ALFRED%20HITCHCOCK%20INTRIGA%20INTERNACIONAL%20(NORTH%20BY%20NORTHWEST).mp4
-#EXTINF:-1 ,
+#EXTINF:-1 ,Alfred Hitchcock - To Catch a Thief
 http://144.217.180.154/SERVIDOR_3/ALFRED%20HITCHCOCK%20PARA%20ATRAPAR%20AL%20LADRON%20(TO%20CATCH%20A%20THIEF).mp4
-#EXTINF:-1 ,
+#EXTINF:-1 ,Alfred Hitchcock - Cortina Rasgada
 http://144.217.180.154/SERVIDOR_2/ALFRED%20HITCHCOCK%20CORTINA%20RASGADA-%20FINAL.mp4
-#EXTINF:-1 ,
+#EXTINF:-1 ,Alfred Hitchcock - Psicosis
 http://62.210.190.73/Movies/SUSPENSO/Psicosis%20(Dual-1960).mkv
+#EXTINF:-1 ,Hitchcock (Alfred Hitchcock And The Making Of Psycho)
+http://144.217.180.154/SERVIDOR_2/HITCHCOCK%20(ALFRED%20HITCHCOCK%20AND%20THE%20MAKING%20OF%20PSYCHO).mp4
 #EXTINF:-1 ,El Cadaver de la Novia
 http://62.210.190.73/Movies/INFANTILES/Corpse%20Bride%20(Lat-2005).mkv
 #EXTINF:-1 ,El Extraño Mundo De Jack
@@ -62,10 +64,6 @@ http://144.217.180.154/SERVIDOR_3/EL%20PROFES1ON4L%202019.mp4
 http://144.217.180.154/SERVIDOR_3/EN%20BUSCA%20DEL%20DESTINO%20(GOOD%20WILL%20HUNTING).mp4
 #EXTINF:-1 ,Fight Like a Girl
 http://144.217.180.154/SERVIDOR_3/FIGHT%20LIKE%20A%20GIRL%2001%20TEMP%20DVD%2001_CAP.1AL5_ES.mp4
-#EXTINF:-1 ,Hilda t2 p1
-http://144.217.180.154/SERVIDOR_3/HILDA%2002%20TEMP%20DVD%2002_CAP6A10.mp4
-#EXTINF:-1 ,Hilda T2 P1
-http://144.217.180.154/SERVIDOR_3/HILDA%2002%20TEMP%20DVD%2003_CAP11A13.mp4
 #EXTINF:-1 ,La Sociedad de los Poetas Muertos
 http://144.217.180.154/SERVIDOR_3/LA%20SOCIEDAD%20DE%20LOS%20POETAS%20MUERTOS%20(EL%20CLUB%20DE%20LOS%20POETAS).mp4
 #EXTINF:-1 ,Locas Vacaciones sobre ruedas
@@ -86,6 +84,8 @@ http://144.217.180.154/SERVIDOR_3/SOUNDTRACKS%20MUSICA%20QUE%20MARCO%20LA%20HIST
 http://144.217.180.154/SERVIDOR_3/SOUNDTRACKS%20MUSICA%20QUE%20MARCO%20LA%20HISTORIA%2001*%20TEMP%20DVD%2002_CAP.6AL8_ES.mp4
 #EXTINF:-1 ,Todopoderoso
 http://144.217.180.154/SERVIDOR_3/TODOPODEROSO%202%20(EVAN%20ALMIGHTY).mp4
+#EXTINF:-1 ,Mentiroso Mentiroso
+http://5.9.94.182/master/Peliculas1/Liar%20Liar%20(1997).mkv
 #EXTINF:-1 ,Un Dia de furia
 http://144.217.180.154/SERVIDOR_3/UN%20DIA%20DE%20FURIA%20(FALLING%20DOWN).mp4
 #EXTINF:-1 ,The Devil And Daniel Johnston
@@ -194,14 +194,6 @@ http://144.217.180.154/SERVIDOR_2/GRANDES%20ESPERANZAS%20(GREAT%20EXPECTATION)%2
 http://144.217.180.154/SERVIDOR_2/GUIA%20DEL%20VIAJERO%20INTERGALACTICO%20(THE%20HITCHHIKERS%20GUIDE%20TO%20THE%20GALAXY).mp4
 #EXTINF:-1 ,Beautiful Creatures
 http://144.217.180.154/SERVIDOR_2/HERMOSAS%20CRIATURAS%20(BEATIFUL%20CREATURES).mp4
-#EXTINF:-1 ,Hombres de negro 1
-http://144.217.180.154/SERVIDOR_2/HOMBRES%20DE%20NEGRO%201%20(MEN%20IN%20BLACK%201).mp4
-#EXTINF:-1 ,Hombres de negro 2
-http://144.217.180.154/SERVIDOR_2/HOMBRES%20DE%20NEGRO%202%20(MEN%20IN%20BLACK%202).mp4
-#EXTINF:-1 ,Hombres de negro 3
-http://144.217.180.154/SERVIDOR_2/HOMBRES%20DE%20NEGRO%203%20(MEN%20IN%20BLACK%203).mp4
-#EXTINF:-1 ,Hombres de negro Internacional
-http://5.9.94.182/master/Peliculas1/Men%20in%20Black%20International%20(2019).mkv
 #EXTINF:-1 ,Hackers 1995
 http://144.217.180.154/SERVIDOR_2/Hackers%20(1995)%20Latino%20Full%20by%20Cyrus%20Video.mp4
 #EXTINF:-1 ,La vida de Bob Dylan
@@ -210,26 +202,8 @@ http://144.217.180.154/SERVIDOR_2/IN%20NOT%20THERE%20LA%20VIDA%20DE%20BOB%20DYLA
 http://144.217.180.154/SERVIDOR_2/INOCENCIA%20INTERRUMPIDA.mp4
 #EXTINF:-1 ,Jackie Brown
 http://144.217.180.154/SERVIDOR_2/JACKIE%20BROWN%20LA%20ESTAFA_Z.mp4
-#EXTINF:-1 ,John Wick 1
-http://144.217.180.154/SERVIDOR_2/JOHN%20WICK%20(SIN%20CONTROL).mp4
-#EXTINF:-1 ,John Wick 2
-http://144.217.180.154/SERVIDOR_2/JOHN%20WICK%202%20UN%20NUEVO%20DIA%20PARA%20MATAR.mp4
-#EXTINF:-1 ,John Wick 3
-http://144.217.180.154/SERVIDOR_2/JUNO%20(LA%20VIDA%20DE%20JUNO).mp4
-#EXTINF:-1 ,Kill Bill 1
-http://144.217.180.154/SERVIDOR_2/KILL%20BILL.mp4
-#EXTINF:-1 ,KIll Bill 2
-http://144.217.180.154/SERVIDOR_2/KILL%20BILL%202.mp4
-#EXTINF:-1 ,Kill Bill full version sub esp
-http://144.217.180.154/SERVIDOR_2/KILL%20BILL%20THET%20HOLE%20BLOODY%20AFFAIR.mp4
 #EXTINF:-1 ,Kimi No Na Wa
 http://144.217.180.154/SERVIDOR_2/KIMI%20NO%20NA%20WA.mp4
-#EXTINF:-1 ,Kung Fu Panda 
-http://144.217.180.154/SERVIDOR_2/KUNG%20FU%20PANDA.mp4
-#EXTINF:-1 ,Kung Fu Panda 2
-http://144.217.180.154/SERVIDOR_2/KUNGFU%20PANDA%202.mp4
-#EXTINF:-1 ,Kung Fu Panda 3
-http://144.217.180.154/SERVIDOR_2/KUNGFU%20PANDA%203.mp4
 #EXTINF:-1 ,La Balada Del Pistolero
 http://144.217.180.154/SERVIDOR_2/LA%20BALADA%20DEL%20PIESTOLERO%20(DESPERADO).mp4
 #EXTINF:-1 ,Labyrinth (1986)
@@ -342,20 +316,8 @@ http://62.210.190.73/Movies/FICCION/Juegos%20De%20Guerra%20(Lat-1983).mkv
 http://62.210.190.73/Movies/FICCION/Mars%20Attacks%20(Dual-1996).mkv
 #EXTINF:-1 ,Hijos del Hombre
 http://62.210.190.73/Movies/FICCION/Ni%c3%b1os%20del%20Hombre%20(Dual-2006).mkv
-#EXTINF:-1 ,Star Wars - Una Nueva Esperanza
-http://62.210.190.73/Movies/FICCION/Star%20Wars%20(Dual-1977).mkv
-#EXTINF:-1 ,El Imperio Contrataca
-http://62.210.190.73/Movies/FICCION/Star%20Wars%20(Dual-1980).mkv
-#EXTINF:-1 ,El regreso del Jedy
-http://62.210.190.73/Movies/FICCION/Star%20Wars%20(Dual-1983).mkv
 #EXTINF:-1 ,Videodrome
 http://62.210.190.73/Movies/FICCION/Videodrome%20(Lat-1983).mkv
-#EXTINF:-1 ,Volver al Futuro 1
-http://62.210.190.73/Movies/FICCION/Volver%20al%20Futuro%20(Dual-1985).mkv
-#EXTINF:-1 ,Volver al Futuro 2
-http://62.210.190.73/Movies/FICCION/Volver%20al%20Futuro%202%20(Dual-1989).mkv
-#EXTINF:-1 ,Volver al Futuro 3
-http://62.210.190.73/Movies/FICCION/Volver%20al%20Futuro%203%20(Dual-1990).mkv
 #EXTINF:-1 ,Cadena de Favores
 http://62.210.190.73/Movies/DRAMA/Cadena%20De%20Favores%20(2000-Dual).mkv
 #EXTINF:-1 ,Carandiru
@@ -417,23 +379,6 @@ http://5.9.94.182/master/Peliculas1/El%20Rey%20Leon%20(1994).mkv
 #EXTINF:-1 ,El Rey Leon 2 1998
 http://5.9.94.182/master/Peliculas1/El%20Rey%20Leon%202%20El%20Reino%20De%20Simba%20(1998).mkv
 #EXTINF:-1 ,El Rey Leon 3 2004
-http://5.9.94.182/master/Peliculas1/El%20rey%20leon%203%20Hakuna%20matata%20(2004).mkv
-#EXTINF:-1 ,Harry Potter y la piedra filosofal (2001)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%2001%20(2001).mkv
-#EXTINF:-1 ,Harry Potter y la Cámara Secreta (2002)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%2002%20(2002).mkv
-#EXTINF:-1 ,Harry Potter y el Prisionero de Azkaban (2004)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%2003%20(2004).mkv
-#EXTINF:-1 ,Harry Potter y el Cáliz de Fuego (2005)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%2004%20(2005).mkv
-#EXTINF:-1 ,Harry Potter y la Orden del Fénix (2007)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%2005%20(2007).mkv
-#EXTINF:-1 ,Harry Potter y el Misterio del Príncipe (2009)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%20and%20the%20Half%20Blood%20Prince%202009.mp4
-#EXTINF:-1 ,Harry Potter y las Reliquias de la Muerte Parte 1 (2010)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%2007.1%20(2010).mkv
-#EXTINF:-1 ,Harry Potter y las Reliquias de la Muerte Parte 2 (2011)
-http://5.9.94.182/master/Peliculas1/Harry%20Potter%2007.2%20(2011).mkv
 #EXTINF:-1 ,Mi Pobre Angelito
 http://5.9.94.182/master/Peliculas1/Home%20Alone%20(1990).mkv
 #EXTINF:-1 ,Mi Pobre Angelito 2
@@ -442,16 +387,8 @@ http://5.9.94.182/master/Peliculas1/Home%20Alone%202%20(1992).mkv
 http://5.9.94.182/master/Peliculas1/Inception%20(2010).mkv
 #EXTINF:-1 ,Intensamente
 http://5.9.94.182/master/Peliculas1/Intensamente%20(2015).mkv
-#EXTINF:-1 ,Jeepers Creepers (2001)
-http://5.9.94.182/master/Peliculas1/Jeepers%20Creepers%20(2001).mp4
-#EXTINF:-1 ,Jeepers Creepers (2003)
-http://5.9.94.182/master/Peliculas1/Jeepers%20Creepers%202%20(2003).mp4
-#EXTINF:-1 ,Jeepers Creepers (2017)
-http://5.9.94.182/master/Peliculas1/Jeepers%20Creepers%203%20(2017).mp4
 #EXTINF:-1 ,Juice (1992)
 http://5.9.94.182/master/Peliculas1/Juice%20(1992).mkv
-#EXTINF:-1 ,Kung Fusion
-http://5.9.94.182/master/Peliculas1/Kung-fusi%c3%b3n%20(2004).mkv
 #EXTINF:-1 ,La Naranja Mecanica
 http://5.9.94.182/master/Peliculas1/La%20Naranja%20Mecanica%20(1971).mkv
 #EXTINF:-1 ,La Chica que saltaba a traves del tiempo
@@ -492,18 +429,16 @@ http://5.9.94.182/master/Peliculas1/Monsters%20University%20(2013).mkv
 http://5.9.94.182/master/Peliculas1/Problem%20Child%202%20(1991).mkv
 #EXTINF:-1 ,Problem Child (1992)
 http://5.9.94.182/master/Peliculas1/Problem%20Child%202%20(1991).mkv
-#EXTINF:-1 ,Spiderman Homecoming (2017)
-http://5.9.94.182/master/Peliculas1/Spider-Man%20Homecoming%20(2017).mkv
-#EXTINF:-1 ,,Spiderman Far From Home (2019)
-http://5.9.94.182/master/Peliculas1/Spider-Man%20Far%20from%20Home%20(2019).mkv
-#EXTINF:-1 ,,Spiderman into de Spiderverse (2018)
-http://5.9.94.182/master/Peliculas1/Spider-Man%20Into%20the%20Spider-Verse%20(2018).mkv
 #EXTINF:-1 ,La Dama y el Vagabundo
 http://5.9.94.182/master/Peliculas3/La%20Dama%20y%20el%20vagabundo.mkv
 #EXTINF:-1 ,Scarface (1983)
 http://5.9.94.182/master/Peliculas3/Scarface%20(1983).mkv
+#EXTINF:-1 ,Kung Fusion
+http://5.9.94.182/master/Peliculas1/Kung-fusi%c3%b3n%20(2004).mkv
 #EXTINF:-1 ,Shaolin Soccer (2001)
 http://5.9.94.182/master/Peliculas3/Shaolin%20Soccer%20(2001).mkv
+#EXTINF:-1 ,Kung Pow (2002)
+http://5.9.94.182/master/Peliculas1/Kung%20Pow%20Enter%20the%20Fist%20(2002).mkv
 #EXTINF:-1 ,Shazam (2019)
 http://5.9.94.182/master/Peliculas3/Shazam%20(2019).mkv
 #EXTINF:-1 ,Space Jam (1996)
@@ -528,14 +463,6 @@ http://5.9.94.182/master/Peliculas3/The%20Frighteners%20(1996).mkv
 http://5.9.94.182/master/Peliculas3/The%20Great%20Gatsby%20(2013).mkv
 #EXTINF:-1 ,La Milla Verde
 http://5.9.94.182/master/Peliculas3/The%20Green%20Mile%20(1999).mkv
-#EXTINF:-1 ,Los juegos del hambre
-http://5.9.94.182/master/Peliculas3/The%20Hunger%20Games%20(2012).mkv
-#EXTINF:-1 ,The Hunger Games Catching Fire
-http://5.9.94.182/master/Peliculas3/The%20Hunger%20Games%20Catching%20Fire%20(2013).mkv
-#EXTINF:-1 ,The Hunger Games Mockingjay p1
-http://5.9.94.182/master/Peliculas3/The%20Hunger%20Games%20Mockingjay%20-%20Part%201%20(2014).mkv
-#EXTINF:-1 ,The Hunger Games Mockingjay p2
-http://5.9.94.182/master/Peliculas3/The%20Hunger%20Games%20Mockingjay%20-%20Part%202%20(2015).mkv
 #EXTINF:-1 ,Un Ratoncito Duro de cazar
 http://5.9.94.182/master/Peliculas3/Un%20ratoncito%20duro%20de%20cazar%20(1997).mkv
 #EXTINF:-1 ,Venom (2018)
@@ -590,7 +517,47 @@ http://144.217.180.154/SERVIDOR_2/TAXI%20DRIVER.mp4
 http://144.217.180.154/SERVIDOR_2/PIXAR%20EN%20LA%20VIDA%20REAL%2001%20TEMP%20DVD%2001_CAP.1AL5_ES.mp4
 #EXTINF:-1 ,pIXAR EN LA VIDA REAL P2
 http://144.217.180.154/SERVIDOR_2/PIXAR%20EN%20LA%20VIDA%20REAL%2001%20TEMP%20DVD%2002_CAP.6AL11_ES.mp4
-#EXTINF:-1 ,LOST iN tRASLATION
+#EXTINF:-1 ,Lost In Traslation
 http://144.217.180.154/SERVIDOR_2/PERDIDOS%20EN%20TOKIO%20(LOST%20IN%20TRANSLATION).mp4
 #EXTINF:-1 ,Idiocracia
 http://5.39.94.171/Descargas/Idiocracia%20(2006)%20%5bBRrip%20m720p%20x264%20AC3(ES)%5d.mkv
+#EXTINF:-1 ,Revenant
+http://5.9.94.182/master/Peliculas1/Revenant%20(2015).mkv
+#EXTINF:-1 ,El Demonio de Neon
+http://sonicracing.xyz/peliculas%20doble%20audio/El%20Demonio%20Neon-198.mkv
+#EXTINF:-1 ,Birdman
+http://sonicracing.xyz/peliculas%20doble%20audio/Birdman%20(2014).mkv
+#EXTINF:-1 ,Ralph El Demoledor
+http://sonicracing.xyz/peliculas%20doble%20audio/Ralph%20El%20Demoledor.mkvr
+#EXTINF:-1 ,Ralph El Demoledor II (Wifi Ralph)
+http://sonicracing.xyz/peliculas%20doble%20audio/Wifi%20Ralph.mkv
+#EXTINF:-1 ,Ready Player One
+http://sonicracing.xyz/peliculas%20doble%20audio/Ready%20Player%20One.mkv
+#EXTINF:-1 ,Requiem for a dream
+http://sonicracing.xyz/peliculas%20doble%20audio/Requiem%20For%20A%20Dream%20(R%c3%a9quiem%20Por%20Un%20Sue%c3%b1o)%20(2000).mkv
+#EXTINF:-1 ,Roma
+http://sonicracing.xyz/peliculas%20doble%20audio/Roma.mkv
+#EXTINF:-1 ,Ted
+http://sonicracing.xyz/peliculas%20doble%20audio/Ted.mkv
+#EXTINF:-1 ,Agua para elefantes
+http://sonicracing.xyz/peliculas%20doble%20audio/Agua%20Para%20Elefantes.mkv
+#EXTINF:-1 ,Aladino
+http://sonicracing.xyz/peliculas%20doble%20audio/Aladino.mkv
+#EXTINF:-1 ,Animales Fantásticos y como encontrarlos
+http://sonicracing.xyz/peliculas%20doble%20audio/Animales%20Fantasticos%20Y%20Donde%20Encontrarlos.mkv
+#EXTINF:-1 ,Animales Fantásticos - Los crímenes de Grindelwald
+http://5.9.94.182/master/Peliculas1/Fantastic%20Beasts%20The%20Crimes%20of%20Grindelwald%20(2018).mkv
+#EXTINF:-1 ,It(1990)
+http://5.9.94.182/master/Peliculas1/It%20(1990).mkv
+#EXTINF:-1 ,It (2017)
+http://5.9.94.182/master/peliculas/It%20(Eso)%20(2017).mp4
+#EXTINF:-1 ,It segunda parte (2019)
+http://5.9.94.182/master/Peliculas1/It.%20Chapter%20Two%20(2019).mkv
+#EXTINF:-1 ,Historia de Nueva York
+http://144.217.180.154/SERVIDOR_2/HISTORIAS%20DE%20NUEVA%20YORK%20(NEW%20YORK%20STORIES).mp4
+#EXTINF:-1 ,The Million Dollar Hotel
+http://144.217.180.154/SERVIDOR_2/EL%20HOTEL%20DEL%20MILLON%20DE%20DOLARES%20(THE%20MILLON%20DOLLAR%20HOTEL).mp4
+#EXTINF:-1 ,Elizabethtown
+http://144.217.180.154/SERVIDOR_2/ELIZABETHTOWN.mp4
+#EXTINF:-1 ,El Laberinto Del Fauno
+http://144.217.180.154/SERVIDOR_2/EL%20LABERINTO%20DEL%20FAUNO%20(PAN%20S%20LABYRINTH).mp4
