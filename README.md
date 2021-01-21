@@ -238,7 +238,7 @@ http://144.217.180.154/SERVIDOR_2/LOCO%20POR%20MARY.mp4
 http://144.217.180.154/SERVIDOR_2/LOS%208%20ODIADOS%20(THE%20HATEFUL%20EIGHT).mp4
 #EXTINF:-1 ,Yo Tonya
 http://144.217.180.154/SERVIDOR_2/YO%20TONYA-%20FINAL.mp4
-#EXTINF:-1 White Chicks
+#EXTINF:-1, White Chicks
 http://144.217.180.154/SERVIDOR_2/Y%20DONDE%20ESTAN%20LAS%20RUBIAS%20(WHITE%20CHIKS).mp4
 #EXTINF:-1 ,Watchmen 2020 T1 P1
 http://144.217.180.154/SERVIDOR_2/Watchmen_2020_S01_DVDR_R1_NTSC_LatinoDVD1.mp4
@@ -561,3 +561,35 @@ http://144.217.180.154/SERVIDOR_2/EL%20HOTEL%20DEL%20MILLON%20DE%20DOLARES%20(TH
 http://144.217.180.154/SERVIDOR_2/ELIZABETHTOWN.mp4
 #EXTINF:-1 ,El Laberinto Del Fauno
 http://144.217.180.154/SERVIDOR_2/EL%20LABERINTO%20DEL%20FAUNO%20(PAN%20S%20LABYRINTH).mp4
+#EXTINF:-1 ,Christopher Robin
+http://sonicracing.xyz/peliculas%20doble%20audio/Christopher%20Robin.mkv
+#EXTINF:-1 ,Codigo Fuente
+http://sonicracing.xyz/peliculas%20doble%20audio/Codigo%20Fuente.mkv
+#EXTINF:-1 ,Deadpool
+http://51.77.66.14/Marvel/Deadpool/Deadpool.mkv
+#EXTINF:-1 ,Deadpool II
+http://sonicracing.xyz/peliculas%20doble%20audio/Deadpool%202.mkv
+#EXTINF:-1 ,Elvis and Nixon
+http://sonicracing.xyz/peliculas%20doble%20audio/Elvis%20And%20Nixon.mkv
+#EXTINF:-1 ,Frankenweenie
+http://sonicracing.xyz/peliculas%20doble%20audio/Frankenweenie%20(2012).mkv
+#EXTINF:-1 ,Guardianes de la Galaxia Vol. 1
+http://51.77.66.14/Marvel/Guardianes%20de%20la%20Galaxia/Guardianes%20de%20la%20Galaxia%20Vol.%201.mkv
+#EXTINF:-1 ,Guardianes de la Galaxia Vol. 2
+http://sonicracing.xyz/peliculas%20doble%20audio/Guardines%20De%20La%20Galaxia%20(2014).mkv
+#EXTINF:-1 ,El Lorax
+http://sonicracing.xyz/peliculas%20doble%20audio/Lorax%20En%20Busca%20De%20La%20Tr%c3%bafula%20Perdida.mkv
+#EXTINF:-1 ,I Kill Giants
+http://51.77.66.14/I.Kill.Giants.2017.1080p.BluRay.x264.mkv
+#EXTINF:-1 ,Los Muppets
+http://sonicracing.xyz/peliculas%20doble%20audio/Los%20Muppets.mkv
+#EXTINF:-1 ,Lucy
+http://sonicracing.xyz/peliculas%20doble%20audio/Lucy.mkv
+#EXTINF:-1 ,Moana
+http://sonicracing.xyz/peliculas%20doble%20audio/Moana.mkv
+#EXTINF:-1 ,El Libro de la Selva (2016)
+http://sonicracing.xyz/peliculas%20doble%20audio/Mowgli.mkv
+#EXTINF:-1 ,The Iron Giant
+http://sonicracing.xyz/peliculas%20doble%20audio/The%20Iron%20Giant.mkv
+#EXTINF:-1 ,Avatar
+http://sonicracing.xyz/peliculas%20doble%20audio/Avatar.mkv
