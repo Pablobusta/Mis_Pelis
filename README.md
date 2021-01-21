@@ -593,3 +593,5 @@ http://sonicracing.xyz/peliculas%20doble%20audio/Mowgli.mkv
 http://sonicracing.xyz/peliculas%20doble%20audio/The%20Iron%20Giant.mkv
 #EXTINF:-1 ,Avatar
 http://sonicracing.xyz/peliculas%20doble%20audio/Avatar.mkv
+#EXTINF:-1 ,Aquaman
+http://sonicracing.xyz/peliculas%20doble%20audio/Aquaman.mkv
