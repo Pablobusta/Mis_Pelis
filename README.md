@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Border
+https://www598.ff-02.com/token=RXZQrkxTlolxKuUIWAsBJw/1613428589/2803:c180::/50/d/20/06b4960f3dcbe54efd3c174db0be920d-480p.mp4
 #EXTINF:-1 ,Brigsby Bear
 https://www193.ff-01.com/token=9Qb7S1nJPxzicFPQChQiEg/1613369078/2803:c180::/9/e/a7/18bd0308a60926fe0402487181719a7e-480p.mp4
 #EXTINF:-1 ,Akira Kurosawa - Rapsody In August
