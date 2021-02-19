@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 ,Ginger Snaps (2000)
-https://ok.ru/video/971122149908
+http://ok.ru/video/971122149908
 #EXTINF:-1 ,Ginger Snaps 2 Unleashed (2004)
-https://ok.ru/video/971124574740
+http://ok.ru/video/971124574740
 #EXTINF:-1 ,Ginger Snapsback El comienzo (2004)
-https://ok.ru/video/971126934036
+http://ok.ru/video/971126934036
 #EXTINF:-1 ,Pi Fe en el Caos
-https://ok.ru/video/1185915079188
+http://ok.ru/video/1185915079188
 #EXTINF:-1 ,Be Kind Rewind
-https://ok.ru/video/890264029810
+http://ok.ru/video/890264029810
 #EXTINF:-1 ,El Hombre de la Mascara de Hierro
-https://ok.ru/profile/584052362516/video/c569108#
+http://ok.ru/profile/584052362516/video/c569108#
 #EXTINF:-1 ,Brigsby Bear
-https://www193.ff-01.com/token=9Qb7S1nJPxzicFPQChQiEg/1613369078/2803:c180::/9/e/a7/18bd0308a60926fe0402487181719a7e-480p.mp4
+http://www193.ff-01.com/token=9Qb7S1nJPxzicFPQChQiEg/1613369078/2803:c180::/9/e/a7/18bd0308a60926fe0402487181719a7e-480p.mp4
 #EXTINF:-1 ,Akira Kurosawa - Rapsody In August
 http://144.217.180.154/SERVIDOR_3/AKIRA%20KUROSAWA%20RHAPSODY%20IN%20AUGUST%20(RAPSODIA%20EN%20AGOSTO).mp4
 #EXTINF:-1 ,Alfred Hitchcock - Under Capricorn
