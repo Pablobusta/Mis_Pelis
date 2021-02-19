@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Ginger Snaps (2000)
 http://ok.ru/video/971122149908
 #EXTINF:-1 ,Ginger Snaps 2 Unleashed (2004)
-http://ok.ru/video/971124574740
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=99350d190a2109648e6cf44effffe40d7ae7c4a4&st.uid=582683888524&st.mq=2&st.mvid=971124574740&st.ip=45.232.95.73&st.dla=on&st.exp=1613880826746&st.hls=on&_prevCmd=movieLayer&tkn=2214
 #EXTINF:-1 ,Ginger Snapsback El comienzo (2004)
 http://ok.ru/video/971126934036
 #EXTINF:-1 ,Pi Fe en el Caos
