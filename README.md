@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Casi Famosos
+https://femax20.com/v/1xoqx10zx94?c1_file=http://ver-pelis.me/subti/tt0181875.srt&c1_label=Ver%20Pelis
 #EXTINF:-1 ,Singles (1992)
 https://www67.uptostream.com/3ft74ws5c1a/360/0/video.mp4
 #EXTINF:-1 ,Full Metal Jacket
