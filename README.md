@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Singles (1992)
+https://www67.uptostream.com/3ft74ws5c1a/360/0/video.mp4
 #EXTINF:-1 ,Full Metal Jacket
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7a784c40d006fd42f6df3681f6d95d5b756ae474&st.uid=582683888524&st.mq=1&st.mvid=45439257108&st.ip=45.232.95.73&st.dla=off&st.exp=1613887392078&st.hls=on&_prevCmd=movieLayer&tkn=5482
 #EXTINF:-1 ,Kicks
