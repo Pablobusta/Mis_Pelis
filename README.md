@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,Casi Famosos
 https://femax20.com/v/1xoqx10zx94?c1_file=http://ver-pelis.me/subti/tt0181875.srt&c1_label=Ver%20Pelis
+#EXTINF:-1 ,cabezas huecas
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=30829871a7f0dcd5dede4cf2b76bc42eb6d92f92&st.uid=582683888524&st.mq=3&st.mvid=1982093527587&st.ip=45.232.95.73&st.dla=off&st.exp=1614054322034&st.hls=on&_prevCmd=movieLayer&tkn=6002
+#EXTINF:-1 ,Reallity Bites 
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=41566017740cc047d47b39254f8dc6e950b39396&st.uid=582683888524&st.mq=3&st.mvid=1099939514900&st.ip=45.232.95.73&st.dla=on&st.exp=1614054199113&st.hls=on&_prevCmd=movieMain&tkn=8633
 #EXTINF:-1 ,Singles (1992)
 https://www67.uptostream.com/3ft74ws5c1a/360/0/video.mp4
 #EXTINF:-1 ,Full Metal Jacket
