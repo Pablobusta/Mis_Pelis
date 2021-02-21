@@ -1,4 +1,6 @@
 #EXTM3U
+El Niño y la Bestia
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=5e505ae556ab377eec3bd80e285b006154e0d40f&st.uid=582683888524&st.mq=3&st.mvid=1051452639875&st.ip=45.232.95.73&st.dla=on&st.exp=1614102124779&st.hls=on&_prevCmd=movieMain&tkn=2317
 #EXTINF:-1 ,Casi Famosos
 https://femax20.com/v/1xoqx10zx94?c1_file=http://ver-pelis.me/subti/tt0181875.srt&c1_label=Ver%20Pelis
 #EXTINF:-1 ,cabezas huecas
@@ -77,8 +79,6 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b52a8af33c1723
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fc6bbfec3cf9301181b509f857b05bc6a04a9873&st.uid=582683888524&st.mq=3&st.mvid=1920212339235&st.ip=45.232.95.73&st.dla=off&st.exp=1613937203303&st.hls=on&_prevCmd=movieLayer&tkn=5658
 #EXTINF:-1 ,James Dean
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=426411113a0ae5fbf0eee5d4b549e99f79ec4b68&st.uid=582683888524&st.mq=2&st.mvid=1925924063779&st.ip=45.232.95.73&st.dla=off&st.exp=1613937261751&st.hls=on&_prevCmd=movieLayer&tkn=8062
-#EXTINF:-1 ,Cabezas Huecas
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=124fd6fa7e304fd557b1a0154bc266d535b99e59&st.uid=582683888524&st.mq=3&st.mvid=1982093527587&st.ip=45.232.95.73&st.dla=off&st.exp=1613937302316&st.hls=on&_prevCmd=movieLayer&tkn=9744
 #EXTINF:-1 ,Hood Rats (2001)
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ba1dd91c9b75a2512995f783a2be14322743a1cf&st.uid=582683888524&st.mq=3&st.mvid=2026896624163&st.ip=45.232.95.73&st.dla=off&st.exp=1613937556238&st.hls=on&_prevCmd=movieLayer&tkn=5124
 #EXTINF:-1 ,Ghost in The Shell Latino
