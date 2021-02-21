@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,prueba 1
-https://drive.google.com/file/d/1P23Md0bfzvE4PA1IUPUtVslSTYXE2oKp/view?usp=sharing
-#EXTINF:-1 ,prueba 2
-https://drive.google.com/file/d/1P23Md0bfzvE4PA1IUPUtVslSTYXE2oKp/view
 #EXTINF:-1 ,El Niño y la Bestia
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=5e505ae556ab377eec3bd80e285b006154e0d40f&st.uid=582683888524&st.mq=3&st.mvid=1051452639875&st.ip=45.232.95.73&st.dla=on&st.exp=1614102124779&st.hls=on&_prevCmd=movieMain&tkn=2317
 #EXTINF:-1 ,Casi Famosos
