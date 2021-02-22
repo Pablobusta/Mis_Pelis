@@ -94,7 +94,7 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bf50be09d5eb5a
 #EXTINF:-1 ,The Drunken Master (1978)
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=25cbdd36797771d8b97ec372d999d2c1f22bde32&st.uid=582683888524&st.mq=3&st.mvid=1867660003895&st.ip=45.232.95.73&st.dla=off&st.exp=1613938000534&st.hls=on&_prevCmd=movieLayer&tkn=4231
 #EXTINF:-1 ,Un Principe en Nueva York
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=222dccb2ec54762e94b77cd09a10e9e33d5b80af&st.uid=582683888524&st.mq=0&st.mvid=1749967375045&st.ip=45.232.95.73&st.dla=off&st.exp=1613938023123&st.hls=on&_prevCmd=movieLayer&tkn=2994
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=05de379f00e38a627b0e91bb96836dd55aafaaf4&st.uid=582683888524&st.mq=0&st.mvid=1749967375045&st.ip=45.232.95.73&st.dla=on&st.exp=1614188939241&st.hls=on&_prevCmd=movieMain&tkn=6791
 #EXTINF:-1 ,Y donde están las Rubias
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=21c605b7167769d2775c86d97e987d9b8400f45a&st.uid=582683888524&st.mq=1&st.mvid=1873555819063&st.ip=45.232.95.73&st.dla=off&st.exp=1613938076026&st.hls=on&_prevCmd=movieLayer&tkn=1456
 #EXTINF:-1 ,Ted 1
