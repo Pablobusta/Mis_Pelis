@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5b/c4/8e/5bc48eec6fb66fd17efc5430c1fb48e5.jpg" group-title="INFANTIL", LOS SIMPSONS
+#EXTINF:-1,Los Simpsons 24/7
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1 ,American Psycho (2000)
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=dab49012ac3d361b959665b34c6508e65ba876ea&st.uid=582683888524&st.mq=3&st.mvid=1920212339235&st.ip=45.232.95.73&st.dla=on&st.exp=1614383334985&st.hls=on&_prevCmd=movieLayer&tkn=8088
