@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Canal Los Simpsons 1
 https://lavozdetucuman.com/simpsons.m3u8
-#EXTINF:-1,2anal Los Simpsons 1
+#EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #extinf:-1,prueba 1
 https://861138102.tapecontent.net/radosgw/eL4eXjBz08IYWJ0/p7FLQK3frzTXJoOjmRl2dPYmNhNT_cHptXv6JLZuaRKPWNTmkoXDYpWsfmW8iijgVcZZLNq-dAa7jK25hHVAgA76hWMsZRgch8cx5zzfdfpBMbbiOYTdAebokCr6Z-Ay7kmRQgr-fZO0Zxcb-uIUUoCftExzt7mVFNCNRs9dlpozXXcD03RleRixs3IPwZYlLiTBv9rwSOxWVc1pCMKhpauoGtMv_Ujh14y4B_T4uZ_8CbfpXpAIfQ4XBHkULpfn024Lc7nNhzxTzTwLDtniZwhYmcOdA0tLAA_-XA/3379_1.mp4?stream=1
