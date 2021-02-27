@@ -3,13 +3,13 @@
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-#extinf:-1,prueba 1
+#EXTINF:-1,prueba 1
 https://861138102.tapecontent.net/radosgw/eL4eXjBz08IYWJ0/p7FLQK3frzTXJoOjmRl2dPYmNhNT_cHptXv6JLZuaRKPWNTmkoXDYpWsfmW8iijgVcZZLNq-dAa7jK25hHVAgA76hWMsZRgch8cx5zzfdfpBMbbiOYTdAebokCr6Z-Ay7kmRQgr-fZO0Zxcb-uIUUoCftExzt7mVFNCNRs9dlpozXXcD03RleRixs3IPwZYlLiTBv9rwSOxWVc1pCMKhpauoGtMv_Ujh14y4B_T4uZ_8CbfpXpAIfQ4XBHkULpfn024Lc7nNhzxTzTwLDtniZwhYmcOdA0tLAA_-XA/3379_1.mp4?stream=1
-#extinf:-1,prueba 2
+#EXTINF:-1,prueba 2
 https://streamtape.com/v/eL4eXjBz08IYWJ0/
-#extinf:-1,prueba 3
+#EXTINF:-1,prueba 3
 https://www69.zippyshare.com/v/AaSTamaV/file.html
-#extinf:-1,prueba 4
+#EXTINF:-1,prueba 4
 https://www69.zippyshare.com/downloadM4V?key=AaSTamaV&res=ORG&time=886561
 #EXTINF:-1 ,American Psycho (2000)
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=dab49012ac3d361b959665b34c6508e65ba876ea&st.uid=582683888524&st.mq=3&st.mvid=1920212339235&st.ip=45.232.95.73&st.dla=on&st.exp=1614383334985&st.hls=on&_prevCmd=movieLayer&tkn=8088
