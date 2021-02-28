@@ -3,8 +3,8 @@
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,American Psycho (2000)
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=dab49012ac3d361b959665b34c6508e65ba876ea&st.uid=582683888524&st.mq=3&st.mvid=1920212339235&st.ip=45.232.95.73&st.dla=on&st.exp=1614383334985&st.hls=on&_prevCmd=movieLayer&tkn=8088
+#EXTINF:-1 ,Recuerdo de Marnie
+https://m40.uqload.com/3rfkryh5abw2q4drdky7fihylzt74opbd444ybvsdmjp5ur6ftq45i57lzwa/v.mp4
 #EXTINF:-1 ,Dope
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2f473fd173a6d1503a2a762a57838599978c2083&st.uid=582683888524&st.mq=3&st.mvid=356972694147&st.ip=45.232.95.73&st.dla=on&st.exp=1614651841504&st.hls=on&_prevCmd=movieMain&tkn=8362
 #EXTINF:-1 ,Into The Spiderverse
