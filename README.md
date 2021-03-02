@@ -5,8 +5,8 @@ https://lavozdetucuman.com/simpsons.m3u8
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Social Dilema
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
-#EXTINF:-1 ,Magnolia
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=87a7b9d9fe3d66a31c4a2fd4e51f9cab38865bba&st.uid=582683888524&st.mq=3&st.mvid=1837622626932&st.ip=45.232.95.73&st.dla=off&st.exp=1614734346613&st.hls=on&_prevCmd=movieLayer&tkn=1814
+#EXTINF:-1 ,prueba
+https://doegea.ch.files.1drv.com/y4mgdbqWGsuGm7Mqkgh37UcOeXDWgRTPkyLY-fimvbSAIXqh43CF7xnUsNR0T-IIhjWVgbmBvAwVEFxJY8XKRHPeXdz6GaK8DrrdQj8rdoS-_AEYlENtIGdQRD6C28Uw-IPWpNnybfAvM8og2M7qeMy6BfeeOSPQxbF67htq64dCevwX3J5GoNYohQb9HGYJAWOzaTd4OPLo9bPKMe9XhfGWA/cap1.mp4?videoformat=dash&track=video&part=mediasegment&quality=video-480p&time=0&duration=119880
 #EXTINF:-1 ,Dope
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=2f473fd173a6d1503a2a762a57838599978c2083&st.uid=582683888524&st.mq=3&st.mvid=356972694147&st.ip=45.232.95.73&st.dla=on&st.exp=1614651841504&st.hls=on&_prevCmd=movieMain&tkn=8362
 #EXTINF:-1 ,Into The Spiderverse
