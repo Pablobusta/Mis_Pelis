@@ -3,6 +3,8 @@
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Social Dilema
+http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
 #EXTINF:-1 ,Magnolia
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=87a7b9d9fe3d66a31c4a2fd4e51f9cab38865bba&st.uid=582683888524&st.mq=3&st.mvid=1837622626932&st.ip=45.232.95.73&st.dla=off&st.exp=1614734346613&st.hls=on&_prevCmd=movieLayer&tkn=1814
 #EXTINF:-1 ,Dope
