@@ -5,6 +5,8 @@ https://lavozdetucuman.com/simpsons.m3u8
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Social Dilema
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+#EXTINF:-1,PRUEBA2
+https://www.facebook.com/AestheticLD/videos/334768321301927/?v=334768321301927
 #EXTINF:-1 ,prueba
 https://doegea.ch.files.1drv.com/y4mgdbqWGsuGm7Mqkgh37UcOeXDWgRTPkyLY-fimvbSAIXqh43CF7xnUsNR0T-IIhjWVgbmBvAwVEFxJY8XKRHPeXdz6GaK8DrrdQj8rdoS-_AEYlENtIGdQRD6C28Uw-IPWpNnybfAvM8og2M7qeMy6BfeeOSPQxbF67htq64dCevwX3J5GoNYohQb9HGYJAWOzaTd4OPLo9bPKMe9XhfGWA/cap1.mp4?videoformat=dash&track=video&part=mediasegment&quality=video-480p&time=0&duration=119880
 #EXTINF:-1 ,Dope
