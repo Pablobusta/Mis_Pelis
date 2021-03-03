@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Futurama
+https://m3u-editor.com/serve/rokumaniatest/156476844
+#EXTINF:-1,South Park
+https://m3u-editor.com/serve/rokumaniatest/156476846
 #EXTINF:-1,Canal Los Simpsons 1
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
