@@ -11,6 +11,8 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
 #EXTINF:-1,Ghost World
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=cfb55e78acede1d73bdb9bb2992c2b2f4b8562c9&st.uid=582683888524&st.mq=2&st.mvid=1771436640803&st.ip=45.232.95.73&st.dla=on&st.exp=1614998202119&st.hls=on&_prevCmd=movieLayer&tkn=6834
+#EXTINF:-1,Submarine
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8c2240fead591ce9b9fb38f9bea38f05ab1d6759&st.uid=582683888524&st.mq=1&st.mvid=636897397387&st.ip=45.232.95.73&st.dla=on&st.exp=1615166159430&st.hls=on&_prevCmd=movieLayer&tkn=512
 #EXTINF:-1 ,El Lobo de Wall Street
 http://5.9.94.182/master/Peliculas1/El%20Lobo%20De%20Wall%20Street%20(2013).mp4
 #EXTINF:-1 ,El Niño y la Bestia
