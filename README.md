@@ -7,6 +7,8 @@ https://m3u-editor.com/serve/rokumaniatest/156476846
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Principe NY 2
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b8af6477dfb7416368d220171ec627252682ce51&st.uid=582683888524&st.mq=3&st.mvid=2520715430613&st.ip=45.232.95.73&st.dla=off&st.exp=1615229548287&st.hls=on&_prevCmd=movieLayer&tkn=3370
 #EXTINF:-1,Social Dilema
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
 #EXTINF:-1,Ghost World
