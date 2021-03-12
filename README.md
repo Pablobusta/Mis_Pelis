@@ -7,6 +7,8 @@ https://m3u-editor.com/serve/rokumaniatest/156476846
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,prueba doraemon
+https://ulozto.net/file/5IzfEFTDvcjL/2018-08-16-doraemon-latino-subtitulado-doraemon-el-aro-peludo-espanol-1835123099914178-mp4
 #EXTINF:-1,Sueños de fuga
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a437cc1d4acb75a47537f0cc88257314eb61d5fe&st.uid=582683888524&st.mq=2&st.mvid=1190718081675&st.ip=45.232.95.73&st.dla=on&st.exp=1615686285986&st.hls=on&_prevCmd=movieMain&tkn=5380
 #EXTINF:-1,Principe NY 2
