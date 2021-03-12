@@ -7,8 +7,8 @@ https://m3u-editor.com/serve/rokumaniatest/156476846
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Mayor Paine
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0850b5fd90547bcb89ff81ce207010b4fa12459f&st.uid=582683888524&st.mq=3&st.mvid=1173052131971&st.ip=45.232.95.73&st.dla=on&st.exp=1615427857006&st.hls=on&_prevCmd=movieLayer&tkn=9508
+#EXTINF:-1,Sueños de fuga
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a437cc1d4acb75a47537f0cc88257314eb61d5fe&st.uid=582683888524&st.mq=2&st.mvid=1190718081675&st.ip=45.232.95.73&st.dla=on&st.exp=1615686285986&st.hls=on&_prevCmd=movieMain&tkn=5380
 #EXTINF:-1,Principe NY 2
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b8af6477dfb7416368d220171ec627252682ce51&st.uid=582683888524&st.mq=3&st.mvid=2520715430613&st.ip=45.232.95.73&st.dla=off&st.exp=1615229548287&st.hls=on&_prevCmd=movieLayer&tkn=3370
 #EXTINF:-1,Social Dilema
