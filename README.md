@@ -1,14 +1,26 @@
 #EXTM3U
 #EXTINF:-1,Futurama
-https://m3u-editor.com/serve/rokumaniatest/156476844
+https://m3u-editor.com/serve/rokumaniatest/232043470
 #EXTINF:-1,South Park
-https://m3u-editor.com/serve/rokumaniatest/156476846
+https://m3u-editor.com/serve/rokumaniatest/170491745
 #EXTINF:-1,Canal Los Simpsons 1
 https://lavozdetucuman.com/simpsons.m3u8
 #EXTINF:-1,canal Los Simpsons 2
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,prueba doraemon
-https://ulozto.net/file/5IzfEFTDvcjL/2018-08-16-doraemon-latino-subtitulado-doraemon-el-aro-peludo-espanol-1835123099914178-mp4
+#EXTINF: -1 tvg-id="Los Simpson" tvg-logo="https://m3u-editor.com/storage/channel-logos/c636a8d0-0998-11eb-885d-fb9071586ed4/1224794/201983922.png" group-title="Monitoreo", 007.2 Los Simpson Clasicos
+https://m3u-editor.com/serve/rokumaniatest/201983922
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c636a8d0-0998-11eb-885d-fb9071586ed4/1224794/170491745.png" group-title="Monitoreo", South Park
+https://m3u-editor.com/serve/rokumaniatest/170491745
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c636a8d0-0998-11eb-885d-fb9071586ed4/1224794/232043472.png" group-title="Monitoreo", South Park y Padre de Familia
+https://m3u-editor.com/serve/rokumaniatest/232043472
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aShyuut.png" group-title="24/7 ADULT SWIM", Mr. Pickles
+https://m3u-editor.com/serve/rokumaniatest/156477428
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="24/7 ADULT SWIM", Rick and Morty
+https://m3u-editor.com/serve/rokumaniatest/156477429
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
+https://m3u-editor.com/serve/rokumaniatest/156477430
+#EXTINF:-1, Cine KATY
+http://vaughnlive.tv/katyhd
 #EXTINF:-1,El juego de las lagrimas
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=397954101de12a6be31c4ffe58367ba92dc65e42&st.uid=582683888524&st.mq=2&st.mvid=1607989005024&st.ip=45.232.95.15&st.dla=off&st.exp=1615771452506&st.hls=on&_prevCmd=movieLayer&tkn=5636
 #EXTINF:-1,Principe NY 2
