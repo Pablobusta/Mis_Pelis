@@ -9,8 +9,8 @@ https://lavozdetucuman.com/simpsons.m3u8
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,prueba doraemon
 https://ulozto.net/file/5IzfEFTDvcjL/2018-08-16-doraemon-latino-subtitulado-doraemon-el-aro-peludo-espanol-1835123099914178-mp4
-#EXTINF:-1,Sueños de fuga
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a437cc1d4acb75a47537f0cc88257314eb61d5fe&st.uid=582683888524&st.mq=2&st.mvid=1190718081675&st.ip=45.232.95.73&st.dla=on&st.exp=1615686285986&st.hls=on&_prevCmd=movieMain&tkn=5380
+#EXTINF:-1,El juego de las lagrimas
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=397954101de12a6be31c4ffe58367ba92dc65e42&st.uid=582683888524&st.mq=2&st.mvid=1607989005024&st.ip=45.232.95.15&st.dla=off&st.exp=1615771452506&st.hls=on&_prevCmd=movieLayer&tkn=5636
 #EXTINF:-1,Principe NY 2
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b8af6477dfb7416368d220171ec627252682ce51&st.uid=582683888524&st.mq=3&st.mvid=2520715430613&st.ip=45.232.95.73&st.dla=off&st.exp=1615229548287&st.hls=on&_prevCmd=movieLayer&tkn=3370
 #EXTINF:-1,Social Dilema
