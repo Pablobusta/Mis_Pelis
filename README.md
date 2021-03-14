@@ -19,8 +19,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
-#EXTINF:-1, prueba
-https://ok.ru/video/1348596599412.mp4
+#EXTINF:-1,El Gran Lebowsky
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0e62ada99a1dba14a73020f7ef92d279af583b4a&st.uid=582683888524&st.mq=2&st.mvid=1740903090828&st.ip=45.232.34.233&st.dla=on&st.exp=1615853851773&st.hls=on&_prevCmd=movieMain&tkn=5377
 #EXTINF:-1, pprueba 2
 https://vd309.mycdn.me/?expires=1615696006549&srcIp=170.106.162.184&srcAg=CHROME&ms=185.226.53.18&type=3&sig=ftf5tqmPj-4&ct=4&urls=45.136.21.15&clientType=0&id=568215145099
 #EXTINF:-1,El juego de las lagrimas
