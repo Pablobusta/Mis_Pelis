@@ -20,6 +20,7 @@ https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
 #EXTINF:-1,Good Bye Lenin
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a6b55230d36ba704523fdbe26117dd6be1e3cf47&st.uid=582683888524&st.mq=3&st.mvid=1993306475214&st.ip=45.232.34.233&st.dla=on&st.exp=1616030886420&st.hls=on&_prevCmd=movieLayer&tkn=2897
 #EXTINF:-1, pprueba 2
 https://vd309.mycdn.me/?expires=1615696006549&srcIp=170.106.162.184&srcAg=CHROME&ms=185.226.53.18&type=3&sig=ftf5tqmPj-4&ct=4&urls=45.136.21.15&clientType=0&id=568215145099
 #EXTINF:-1,El juego de las lagrimas
