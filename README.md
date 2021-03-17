@@ -21,8 +21,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477429
 https://m3u-editor.com/serve/rokumaniatest/156477430
 #EXTINF:-1,Good Bye Lenin
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=a6b55230d36ba704523fdbe26117dd6be1e3cf47&st.uid=582683888524&st.mq=3&st.mvid=1993306475214&st.ip=45.232.34.233&st.dla=on&st.exp=1616030886420&st.hls=on&_prevCmd=movieLayer&tkn=2897
-#EXTINF:-1, pprueba 2
-https://vd309.mycdn.me/?expires=1615696006549&srcIp=170.106.162.184&srcAg=CHROME&ms=185.226.53.18&type=3&sig=ftf5tqmPj-4&ct=4&urls=45.136.21.15&clientType=0&id=568215145099
+#EXTINF:-1,reallity bites
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=152d9b4c09a7758d42a455c95db89ff5c7e41582&st.uid=582683888524&st.mq=3&st.mvid=1099939514900&st.ip=45.232.34.233&st.dla=on&st.exp=1616194815260&st.hls=on&_prevCmd=movieMain&tkn=4682
 #EXTINF:-1,El juego de las lagrimas
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=397954101de12a6be31c4ffe58367ba92dc65e42&st.uid=582683888524&st.mq=2&st.mvid=1607989005024&st.ip=45.232.95.15&st.dla=off&st.exp=1615771452506&st.hls=on&_prevCmd=movieLayer&tkn=5636
 #EXTINF:-1,Principe NY 2
