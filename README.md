@@ -19,8 +19,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
-#EXTINF:-1,I Kill Gigants
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d6dabad35cf9558f85f44eaf0457309e02f74098&st.uid=582683888524&st.mq=2&st.mvid=1110418000515&st.ip=45.232.34.233&st.dla=on&st.exp=1616290426529&st.hls=on&_prevCmd=movieLayer&tkn=4020
+#EXTINF:-1,Cabezas Huecas
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=57188170a844eac95b22eefc22030402be1d7f82&st.uid=582683888524&st.mq=3&st.mvid=1982093527587&st.ip=45.232.34.233&st.dla=off&st.exp=1616372682326&st.hls=on&_prevCmd=movieLayer&tkn=5128
 #EXTINF:-1,Solo los amantes sobreviven
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7923afa5c711b962cad5f6d7be2b56cd8f9588cb&st.uid=582683888524&st.mq=0&st.mvid=2271288625807&st.ip=45.232.34.233&st.dla=on&st.exp=1616205842296&st.hls=on&_prevCmd=movieLayer&tkn=1061st.cmd=moviePlaybackRedirect&st.sig=397954101de12a6be31c4ffe58367ba92dc65e42&st.uid=582683888524&st.mq=2&st.mvid=1607989005024&st.ip=45.232.95.15&st.dla=off&st.exp=1615771452506&st.hls=on&_prevCmd=movieLayer&tkn=5636
 #EXTINF:-1,Principe NY 2
