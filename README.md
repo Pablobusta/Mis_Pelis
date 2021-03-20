@@ -21,8 +21,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477429
 https://m3u-editor.com/serve/rokumaniatest/156477430
 #EXTINF:-1,Cabezas Huecas
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=57188170a844eac95b22eefc22030402be1d7f82&st.uid=582683888524&st.mq=3&st.mvid=1982093527587&st.ip=45.232.34.233&st.dla=off&st.exp=1616372682326&st.hls=on&_prevCmd=movieLayer&tkn=5128
-#EXTINF:-1,Solo los amantes sobreviven
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7923afa5c711b962cad5f6d7be2b56cd8f9588cb&st.uid=582683888524&st.mq=0&st.mvid=2271288625807&st.ip=45.232.34.233&st.dla=on&st.exp=1616205842296&st.hls=on&_prevCmd=movieLayer&tkn=1061st.cmd=moviePlaybackRedirect&st.sig=397954101de12a6be31c4ffe58367ba92dc65e42&st.uid=582683888524&st.mq=2&st.mvid=1607989005024&st.ip=45.232.95.15&st.dla=off&st.exp=1615771452506&st.hls=on&_prevCmd=movieLayer&tkn=5636
+#EXTINF:-1,Before Midnight
+https://laskpdcqzw.mscontent.net/g/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTYyNTk3MzcsImRhdGEiOlsiMjgwMzpjMTgwOjIxMDA6OTk3NDplODI1OjQ5MGQ6NmE0YTo4ZjdiIiwiZ2l1bmtvb2k4cDliIiwibiIsMiwiYTMwNzBkMWFlY2I4MzRmZmJmNGU4ZDkzMTZmNzM4NmMiXX0.UhCgtliSbP7CCAbVbr-ZDcxfZNTQJsr8jwsGohiQcwQ.mp4
 #EXTINF:-1,Principe NY 2
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b8af6477dfb7416368d220171ec627252682ce51&st.uid=582683888524&st.mq=3&st.mvid=2520715430613&st.ip=45.232.95.73&st.dla=off&st.exp=1615229548287&st.hls=on&_prevCmd=movieLayer&tkn=3370
 #EXTINF:-1,Social Dilema
