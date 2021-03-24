@@ -25,8 +25,8 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7bd02611d21436
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=eedeed77704053d3c2381e7af7df5b50421e1c5d&st.uid=582683888524&st.mq=1&st.mvid=236276353762&st.ip=45.232.95.26&st.dla=off&st.exp=1616713983333&st.hls=on&_prevCmd=movieLayer&tkn=4505
 #EXTINF:-1,Coraline
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=fc958dced145fc75a5f2cefd2ac4363a18f47593&st.uid=582683888524&st.mq=1&st.mvid=29438446100&st.ip=45.232.95.26&st.dla=on&st.exp=1616530567895&st.hls=on&_prevCmd=movieMain&tkn=5576
-#EXTINF:-1,Principe NY 2
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=b8af6477dfb7416368d220171ec627252682ce51&st.uid=582683888524&st.mq=3&st.mvid=2520715430613&st.ip=45.232.95.73&st.dla=off&st.exp=1615229548287&st.hls=on&_prevCmd=movieLayer&tkn=3370
+#EXTINF:-1,Niño Pijama rayas
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=741da06b0a92b54abe985772ed6b8230078ecfe1&st.uid=582683888524&st.mq=2&st.mvid=1968854796855&st.ip=45.232.95.155&st.dla=off&st.exp=1616802415991&st.hls=on&_prevCmd=movieLayer&tkn=580
 #EXTINF:-1,Social Dilema
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
 #EXTINF:-1,Cuenta Conmigo
