@@ -19,8 +19,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
-#EXTINF:-1,malditos 1
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=7bd02611d21436bf3da625690605d5eb5b10b1b6&st.uid=582683888524&st.mq=3&st.mvid=2119601752587&st.ip=45.232.95.26&st.dla=off&st.exp=1616713971321&st.hls=on&_prevCmd=movieLayer&tkn=3414
+#EXTINF:-1,Good time
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=0fe9afba184d3b38fee786d9854f8bd60fe43433&st.uid=582683888524&st.mq=1&st.mvid=2207624464946&st.ip=45.232.95.155&st.dla=off&st.exp=1616883745442&st.hls=on&_prevCmd=movieLayer&tkn=5846
 #EXTINF:-1,malditos 2
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=eedeed77704053d3c2381e7af7df5b50421e1c5d&st.uid=582683888524&st.mq=1&st.mvid=236276353762&st.ip=45.232.95.26&st.dla=off&st.exp=1616713983333&st.hls=on&_prevCmd=movieLayer&tkn=4505
 #EXTINF:-1,Coraline
