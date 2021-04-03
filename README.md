@@ -19,8 +19,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
-#EXTINF:-1,ghost world
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=794326a06ae57086de79859ed6ba435d054ed9fc&st.uid=582683888524&st.mq=3&st.mvid=1771436640803&st.ip=45.232.95.241&st.dla=on&st.exp=1617653729179&st.hls=on&_prevCmd=movieMain&tkn=3238
+#EXTINF:-1,gh0st world
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=ed0ce4186a142b3c86ba1846a727270eb4de965f&st.uid=582683888524&st.mq=3&st.mvid=1771436640803&st.ip=45.232.95.241&st.dla=on&st.exp=1617654080508&st.hls=on&_prevCmd=movieLayer&tkn=5361
 #EXTINF:-1,el agente topo
 http://201.172.61.203:88/Peliculas/Febrero/El.agente.topo.2020.HD.1080p.Latino.www.peliculasgoogledrive.info.mp4
 #EXTINF:-1,Wolfwalkers
