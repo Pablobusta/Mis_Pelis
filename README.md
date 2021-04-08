@@ -24,6 +24,9 @@ https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8f81c92793be3b
 #EXTINF:-1,2001 Odisea Del Espacio
 http://fina.dyndns.tv/Peliculas/2001%20Una%20Odisea%20en%20el%20Espacio%20.mkv
 #EXTINF:-1,el Gato Fritz
+http://fina.dyndns.tv/Peliculas/Fritz%20the%20Cat%201972.mkv
+Alice Cooper Theatre of Death
+http://fina.dyndns.tv/Peliculas/Alice%20Cooper%20Theatre%20of%20Death.mkv
 #EXTINF:-1,Wolfwalkers
 http://201.172.61.81:85/peliculas/sagas/Wolfwalkers.1080p.ATVP.WEB-DL.Latino..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,Niño Pijama rayas
