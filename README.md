@@ -21,8 +21,9 @@ https://m3u-editor.com/serve/rokumaniatest/156477429
 https://m3u-editor.com/serve/rokumaniatest/156477430
 #EXTINF:-1,Ghost World
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8f81c92793be3b141fa917c031b76666e70cda3d&st.uid=582683888524&st.mq=3&st.mvid=1771436640803&st.ip=45.232.95.241&st.dla=on&st.exp=1617934127334&st.hls=on&_prevCmd=movieLayer&tkn=5533
-#EXTINF:-1,el agente topo
-http://201.172.61.203:88/Peliculas/Febrero/El.agente.topo.2020.HD.1080p.Latino.www.peliculasgoogledrive.info.mp4
+#EXTINF:-1,2001 Odisea Del Espacio
+http://fina.dyndns.tv/Peliculas/2001%20Una%20Odisea%20en%20el%20Espacio%20.mkv
+#EXTINF:-1,el Gato Fritz
 #EXTINF:-1,Wolfwalkers
 http://201.172.61.81:85/peliculas/sagas/Wolfwalkers.1080p.ATVP.WEB-DL.Latino..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,Niño Pijama rayas
