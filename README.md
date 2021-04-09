@@ -19,8 +19,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
-#EXTINF:-1,El Beso de la Pantera
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bb73c630599ee70f2d7f413ea72367f57cea7809&st.uid=582683888524&st.mq=1&st.mvid=1179225950935&st.ip=45.232.95.8&st.dla=off&st.exp=1618102833662&st.hls=on&_prevCmd=movieLayer&tkn=3687
+#EXTINF:-1,El Imperio del Sol
+https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=18a35a32f653db12810f798a38af779e85c4ac4e&st.uid=582683888524&st.mq=1&st.mvid=42539878932&st.ip=45.232.95.8&st.dla=on&st.exp=1618113429246&st.hls=off&_prevCmd=movieLayer&tkn=5932&vdsig=TSCM3AFKMvXIp0691vLTYkRtF2I
 #EXTINF:-1,2001 Odisea Del Espacio
 http://fina.dyndns.tv/Peliculas/2001%20Una%20Odisea%20en%20el%20Espacio%20.mkv
 #EXTINF:-1,el Gato Fritz
