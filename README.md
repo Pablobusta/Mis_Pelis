@@ -76,6 +76,8 @@ https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20re
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/En%20este%20rinco%CC%81n%20del%20mundo%20%282016%29.mp4
 #EXTINF:-0 group-title="ANIME" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHdlTOyawCA2ldD6ocWGJd-XsIajsQdLJHjufFATHmmegFDKIb.JPG" ,Una voz silenciosa (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Una%20voz%20silenciosa%20%282016%29.mp4
+#EXTINF:-1,La Princesa Mononoke
+https://ia803205.us.archive.org/35/items/mon-0-nok-3/MON0NOK3.mp4
 #EXTINF:-1, el cuento de la princesa kaguya 
 http://archive.org/download/kagu_20200828/kagu.mp4
 #EXTINF:-1,EL JARDIN DE LAS PALABRAS 
