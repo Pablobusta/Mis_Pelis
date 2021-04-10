@@ -76,6 +76,25 @@ https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20re
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/En%20este%20rinco%CC%81n%20del%20mundo%20%282016%29.mp4
 #EXTINF:-0 group-title="ANIME" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHdlTOyawCA2ldD6ocWGJd-XsIajsQdLJHjufFATHmmegFDKIb.JPG" ,Una voz silenciosa (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Una%20voz%20silenciosa%20%282016%29.mp4
+#EXTINF:-1, el cuento de la princesa kaguya 
+http://archive.org/download/kagu_20200828/kagu.mp4
+#EXTINF:-1,EL JARDIN DE LAS PALABRAS 
+http://archive.org/download/dfdpo7y4l5e/dfdpo7y4l5e.mp4
+#EXTINF:-1,EL INCREIBLE CASTILLO VAGABUNDO 
+http://archive.org/download/descargar_el_coleccionista_2/3.mp4
+#EXTINF:-1,EL NIÑO Y LA BESTIA 
+http://archive.org/download/ninteru4j5lo/ninteru4j5lo.mp4
+#EXTINF:-1,MI VECINO TOTORO 
+http://archive.org/download/0_20200414_20200414_2013/2.mp4
+#EXTINF:-1,LOS NIÑOS LOBO 
+http://archive.org/download/rtyjhfd4s7a/rtyjhfd4s7a.mp4
+#EXTINF:-1,los niños del mar 
+http://archive.org/download/ndm_20200815_202008/ndm.mp4
+#EXTINF:-1,LA CHICA QUE SALTABA A TRAVES DEL TIEMPO 
+http://archive.org/download/tratretri7o6l/tratretri7o6l.mp4 #EXTINF:-1,LA TUMBA DE LAS LUCIERNAGAS 
+http://archive.org/download/3_20200608_20200608_1702/2.mp4
+#EXTINF:-1="http://archive.org/download/47-ronin-2012-poster/RIKI OH LA HISTORIA DE RICKY .jpg",RIKI OH LA HISTORIA DE RICKY 
+http://archive.org/download/01_20200320_20200320_2010/Sub_p4ara_Str34m_AB8/01.mp4
 #EXTINF:0 group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg" ,Redline (2009)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Redline%20%282009%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://i.pinimg.com/originals/8f/b3/22/8fb322b397abd737d16dae24e2d12586.jpg" ,Mortal Kombat (1995)
