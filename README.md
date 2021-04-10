@@ -21,6 +21,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477429
 https://m3u-editor.com/serve/rokumaniatest/156477430
 #EXTINF:-1,Ghost
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=366c610f020a78fa3050a60ccf5225f0784ed9d1&st.uid=582683888524&st.mq=2&st.mvid=1771436640803&st.ip=45.232.95.183&st.dla=on&st.exp=1618187246331&st.hls=on&_prevCmd=movieLayer&tkn=381
+#EXTINF:-1,Una Joven Prometedora (2020)
+http://201.172.61.203:88/Peliculas/Danna/Promising.Young.Woman.2020.WEB-DL.AMZN.1080p.Latino...www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,2001 Odisea Del Espacio
 http://fina.dyndns.tv/Peliculas/2001%20Una%20Odisea%20en%20el%20Espacio%20.mkv
 #EXTINF:-1,el Gato Fritz
@@ -29,8 +31,14 @@ Alice Cooper Theatre of Death
 http://fina.dyndns.tv/Peliculas/Alice%20Cooper%20Theatre%20of%20Death.mkv
 #EXTINF:-1,Wolfwalkers
 http://201.172.61.81:85/peliculas/sagas/Wolfwalkers.1080p.ATVP.WEB-DL.Latino..mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1,Niño Pijama rayas
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=741da06b0a92b54abe985772ed6b8230078ecfe1&st.uid=582683888524&st.mq=2&st.mvid=1968854796855&st.ip=45.232.95.155&st.dla=off&st.exp=1616802415991&st.hls=on&_prevCmd=movieLayer&tkn=580
+#EXTINF:-1,#EXTINF:-1,America X
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/American%20History%20X.mp4
+#EXTINF:-1,Atrapame si puedes
+http://201.172.61.81:85/peliculas/octubre/*Atr%c3%a1pame%20si%20puedes%20(2002).mp4
+#EXTINF:-1,La Mascara del zorro
+https://ia801805.us.archive.org/21/items/desaparecido-en-combate-1984_202101/La%20ma%CC%81scara%20del%20Zorro%20%281998%29.mp4
+#EXTINF:-1,mentes peligrosas
+http://201.172.61.81:85/peliculas/octubre/Marvel/Ver%20Mentes%20Peligrosas%20(1995)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1,Social Dilema
 http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
 #EXTINF:-1,Cuenta Conmigo
