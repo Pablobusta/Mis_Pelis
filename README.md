@@ -19,6 +19,12 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
+#EXTINF:-1,Mucho Mucho Amor
+https://ia801808.us.archive.org/5/items/michael-jackson-la-vida-de-un-idolo-2011_202101/Mucho%20mucho%20amor%20La%20leyenda%20de%20Walter%20Mercado%20%282020%29.mp4
+#EXTINF:-1,Transhood
+https://ia801808.us.archive.org/5/items/michael-jackson-la-vida-de-un-idolo-2011_202101/Transhood%20%282020%29.mp4
+#EXTINF:-1,The Speed Cubers
+https://ia801808.us.archive.org/5/items/michael-jackson-la-vida-de-un-idolo-2011_202101/The%20Speed%20Cubers%20%282020%29.mp4
 #EXTINF:-1,Juice
 http://201.172.61.81:85/peliculas/octubre/Juice1992.mp4
 #EXTINF:-1,Una Joven Prometedora (2020)
