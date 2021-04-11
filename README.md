@@ -19,8 +19,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/156477430
-#EXTINF:-1,Ghost
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=366c610f020a78fa3050a60ccf5225f0784ed9d1&st.uid=582683888524&st.mq=2&st.mvid=1771436640803&st.ip=45.232.95.183&st.dla=on&st.exp=1618187246331&st.hls=on&_prevCmd=movieLayer&tkn=381
+#EXTINF:-1,Juice
+http://201.172.61.81:85/peliculas/octubre/Juice1992.mp4
 #EXTINF:-1,Una Joven Prometedora (2020)
 http://201.172.61.203:88/Peliculas/Danna/Promising.Young.Woman.2020.WEB-DL.AMZN.1080p.Latino...www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,2001 Odisea Del Espacio
