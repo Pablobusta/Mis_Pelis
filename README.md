@@ -20,7 +20,9 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="24/7 ADULT SWIM", Rick and Morty
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
-https://m3u-editor.com/serve/rokumaniatest/156477430
+https://m3u-editor.com/serve/rokumaniatest/
+#EXTINF: -1,South Park Especial Vacunación
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/South.Park.Vaccination.Special.1080p.www.peliculasgoogledrive.info.mp4
 #EXTINF:-1,Mucho Mucho Amor
 https://ia801808.us.archive.org/5/items/michael-jackson-la-vida-de-un-idolo-2011_202101/Mucho%20mucho%20amor%20La%20leyenda%20de%20Walter%20Mercado%20%282020%29.mp4
 #EXTINF:-1,Transhood
@@ -55,21 +57,21 @@ https://m.ok.ru/dk/video.mp4?st.cmd=moviePlaybackRedirect&st.sig=67c3474aa5e38d7
 https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=8c2240fead591ce9b9fb38f9bea38f05ab1d6759&st.uid=582683888524&st.mq=1&st.mvid=636897397387&st.ip=45.232.95.73&st.dla=on&st.exp=1615166159430&st.hls=on&_prevCmd=movieLayer&tkn=512
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_combate_definitivo-939157224-mmed.jpg" ,Dragon Ball Z El combate definitivo (1994)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20combate%20definitivo%20%281994%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d0/DBZ_Pel%C3%ADcula_2_p%C3%B3ster.png/revision/latest?cb=20180805032321&path-prefix=es" ,Dragon Ball Z El más fuerte del mundo (1990)
+#EXTINF:0 group-title="Anime" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d0/DBZ_Pel%C3%ADcula_2_p%C3%B3ster.png/revision/latest?cb=20180805032321&path-prefix=es" ,Dragon Ball Z El más fuerte del mundo (1990)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20ma%CC%81s%20fuerte%20del%20mundo%20%281990%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-regreso-broly.jpg?itok=eVP1kqJg" ,Dragon Ball Z El regreso de Broly (1994)
+#EXTINF:0 group-title="Anime" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-regreso-broly.jpg?itok=eVP1kqJg" ,Dragon Ball Z El regreso de Broly (1994)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20regreso%20de%20Broly%20%281994%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_super_guerrero_Son_Goku-758634681-large.jpg" ,Dragon Ball Z El super guerrero Son Goku (1991)
+#EXTINF:0 group-title="Anime" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_super_guerrero_Son_Goku-758634681-large.jpg" ,Dragon Ball Z El super guerrero Son Goku (1991)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20super%20guerrero%20Son%20Goku%20%281991%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-estalla-duelo.jpg?itok=ZSJJMo3d" ,Dragon Ball Z Estalla el duelo (1993)
+#EXTINF:0 group-title="Anime" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-estalla-duelo.jpg?itok=ZSJJMo3d" ,Dragon Ball Z Estalla el duelo (1993)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Estalla%20el%20duelo%20%281993%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Guerreros_de_fuerza_ilimitada-880701234-mmed.jpg" ,Dragon Ball Z Guerreros de fuerza ilimitada (1992)
+#EXTINF:0 group-title="Anime" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Guerreros_de_fuerza_ilimitada-880701234-mmed.jpg" ,Dragon Ball Z Guerreros de fuerza ilimitada (1992)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Guerreros%20de%20fuerza%20ilimitada%20%281992%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://gnula.nu/wp-content/uploads/2018/07/Doragon_B%C3%B4ru_Z_3_Chiky%C3%BB_marugoto_ch%C3%B4_kessen_poster_jap%C3%B3n.jpg" ,Dragon Ball Z La super batalla (1990)
+#EXTINF:0 group-title="Anime" tvg-logo="https://gnula.nu/wp-content/uploads/2018/07/Doragon_B%C3%B4ru_Z_3_Chiky%C3%BB_marugoto_ch%C3%B4_kessen_poster_jap%C3%B3n.jpg" ,Dragon Ball Z La super batalla (1990)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20La%20super%20batalla%20%281990%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_Guerreros_de_Plata-796832567-large.jpg" ,Dragon Ball Z Los guerreros de plata (1993)
+#EXTINF:0 group-title="Anime" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_Guerreros_de_Plata-796832567-large.jpg" ,Dragon Ball Z Los guerreros de plata (1993)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20guerreros%20de%20plata%20%281993%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.pelis24.to/old/wp-content/uploads/portadas/dragon-ball-z-los-mejores-rivales.png" ,Dragon Ball Z Los mejores rivales (1991)
+#EXTINF:0 group-title="Anime" tvg-logo="https://www.pelis24.to/old/wp-content/uploads/portadas/dragon-ball-z-los-mejores-rivales.png" ,Dragon Ball Z Los mejores rivales (1991)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20mejores%20rivales%20%281991%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_tres_grandes_Super_Saiyans-979204179-large.jpg" ,Dragon Ball Z Los tres grandes Super Saiyans (1992)
 Dragon Ball Z Los tres grandes Super Saiyans (1992).mp4
