@@ -21,6 +21,8 @@ https://m3u-editor.com/serve/rokumaniatest/156477428
 https://m3u-editor.com/serve/rokumaniatest/156477429
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM", Robot Chicken
 https://m3u-editor.com/serve/rokumaniatest/
+#EXTINF: -1,Straight Outta Compton (2015)
+http://201.172.61.81:85/peliculas/sagas/Ver%20Straight%20Outta%20Compton%20(2015)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF: -1,South Park Especial Vacunación
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/South.Park.Vaccination.Special.1080p.www.peliculasgoogledrive.info.mp4
 #EXTINF:-1,Mucho Mucho Amor
