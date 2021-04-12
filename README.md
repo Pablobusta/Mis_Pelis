@@ -73,7 +73,7 @@ https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20La%
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20guerreros%20de%20plata%20%281993%29.mp4
 #EXTINF:0 group-title="Anime" tvg-logo="https://www.pelis24.to/old/wp-content/uploads/portadas/dragon-ball-z-los-mejores-rivales.png" ,Dragon Ball Z Los mejores rivales (1991)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20mejores%20rivales%20%281991%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_tres_grandes_Super_Saiyans-979204179-large.jpg" ,Dragon Ball Z Los tres grandes Super Saiyans (1992)
+#EXTINF:0 group-title="Anime" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_tres_grandes_Super_Saiyans-979204179-large.jpg" ,Dragon Ball Z Los tres grandes Super Saiyans (1992)
 Dragon Ball Z Los tres grandes Super Saiyans (1992).mp4
 
 ih5Y9qM9338/WSOABP4T_LI/AAAAAAAARs8/DC4zGcgP_K86QKZFhI3w3ATw03fsHzcjACKgB/s1600/El%2Bgran%2Blebowski%2B1080p%2Blatino.png" ,El gran Lebowski (1998)
@@ -94,32 +94,33 @@ https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20re
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/En%20este%20rinco%CC%81n%20del%20mundo%20%282016%29.mp4
 #EXTINF:-0 group-title="ANIME" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHdlTOyawCA2ldD6ocWGJd-XsIajsQdLJHjufFATHmmegFDKIb.JPG" ,Una voz silenciosa (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Una%20voz%20silenciosa%20%282016%29.mp4
-#EXTINF:-1,La Princesa Mononoke
+#EXTINF:0 group-title="Anime" ,La Princesa Mononoke
 https://ia803205.us.archive.org/35/items/mon-0-nok-3/MON0NOK3.mp4
-#EXTINF:-1, el cuento de la princesa kaguya 
+#EXTINF:0 group-title="Anime" ,el cuento de la princesa kaguya 
 http://archive.org/download/kagu_20200828/kagu.mp4
-#EXTINF:-1,EL JARDIN DE LAS PALABRAS 
+#EXTINF:0 group-title="Anime" ,EL JARDIN DE LAS PALABRAS 
 http://archive.org/download/dfdpo7y4l5e/dfdpo7y4l5e.mp4
-#EXTINF:-1,EL INCREIBLE CASTILLO VAGABUNDO 
+#EXTINF:0 group-title="Anime" ,EL INCREIBLE CASTILLO VAGABUNDO 
 http://archive.org/download/descargar_el_coleccionista_2/3.mp4
-#EXTINF:-1,EL NIÑO Y LA BESTIA 
+#EXTINF:0 group-title="Anime" ,EL NIÑO Y LA BESTIA 
 http://archive.org/download/ninteru4j5lo/ninteru4j5lo.mp4
-#EXTINF:-1,MI VECINO TOTORO 
+#EXTINF:0 group-title="Anime" ,MI VECINO TOTORO 
 http://archive.org/download/0_20200414_20200414_2013/2.mp4
-#EXTINF:-1,LOS NIÑOS LOBO 
+#EXTINF:0 group-title="Anime" ,LOS NIÑOS LOBO 
 http://archive.org/download/rtyjhfd4s7a/rtyjhfd4s7a.mp4
-#EXTINF:-1,los niños del mar 
+#EXTINF:0 group-title="Anime" ,Los niños del mar 
 http://archive.org/download/ndm_20200815_202008/ndm.mp4
-#EXTINF:-1,LA CHICA QUE SALTABA A TRAVES DEL TIEMPO 
-http://archive.org/download/tratretri7o6l/tratretri7o6l.mp4 #EXTINF:-1,LA TUMBA DE LAS LUCIERNAGAS 
+#EXTINF:0 group-title="Anime" ,LA CHICA QUE SALTABA A TRAVES DEL TIEMPO 
+http://archive.org/download/tratretri7o6l/tratretri7o6l.mp4 
+#EXTINF:0 group-title="Anime" ,LA TUMBA DE LAS LUCIERNAGAS 
 http://archive.org/download/3_20200608_20200608_1702/2.mp4
 #EXTINF:-1="http://archive.org/download/47-ronin-2012-poster/RIKI OH LA HISTORIA DE RICKY .jpg",RIKI OH LA HISTORIA DE RICKY 
 http://archive.org/download/01_20200320_20200320_2010/Sub_p4ara_Str34m_AB8/01.mp4
 #EXTINF:0 group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg" ,Redline (2009)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Redline%20%282009%29.mp4
-#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://i.pinimg.com/originals/8f/b3/22/8fb322b397abd737d16dae24e2d12586.jpg" ,Mortal Kombat (1995)
+#EXTINF:0 group-title="accion" tvg-logo="https://i.pinimg.com/originals/8f/b3/22/8fb322b397abd737d16dae24e2d12586.jpg" ,Mortal Kombat (1995)
 https://archive.org/download/desaparecido-en-combate-1984_202101/Mortal%20Kombat%20%281995%29.mp4
-#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/34/93/20141050.jpg" ,Mortal Kombat Aniquilación (1997)
+#EXTINF:0 group-title="accion" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/34/93/20141050.jpg" ,Mortal Kombat Aniquilación (1997)
 https://archive.org/download/desaparecido-en-combate-1984_202101/Mortal%20Kombat%20Aniquilacio%CC%81n%20%281997%29.mp4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://media.elcinema.com/uploads/_315x420_35fb45110d658154115fbf93efc7899cdccec3ffa30138db69231a9d3da64d49.jpg" ,Spawn (1997)
+#EXTINF:0 group-title="Ciencia ficción" tvg-logo="https://media.elcinema.com/uploads/_315x420_35fb45110d658154115fbf93efc7899cdccec3ffa30138db69231a9d3da64d49.jpg" ,Spawn (1997)
 https://archive.org/download/desaparecido-en-combate-1984_202101/Spawn%20%281997%29.mp4
