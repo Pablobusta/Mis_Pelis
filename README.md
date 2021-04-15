@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,art
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d34f3f721d7c6c1a7b9bbcfcf797f6c78a1d790e&st.uid=582683888524&st.mq=3&st.mvid=1482018523683&st.ip=45.232.95.198&st.dla=on&st.exp=1618624335211&st.hls=on&_prevCmd=movieLayer&tkn=7381
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=bd0cdca2e63670291a3ad8f53d4aff52d9ee48c1&st.uid=582683888524&st.mq=2&st.mvid=1482018523683&st.ip=45.232.95.198&st.dla=on&st.exp=1618625177745&st.hls=on&_prevCmd=movieLayer&tkn=3128
 #EXTINF:-1,Futurama
 https://m3u-editor.com/serve/rokumaniatest/232043470
 #EXTINF:-1,South Park
