@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ghost
-https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=af80bd729252d3d08c85a3f8a37f1e190b3944b2&st.uid=582683888524&st.mq=3&st.mvid=1771436640803&st.ip=45.232.95.198&st.dla=on&st.exp=1618531864114&st.hls=on&_prevCmd=movieMain&tkn=2809
+#EXTINF:-1,art
+https://m.ok.ru/dk/video.m3u8?st.cmd=moviePlaybackRedirect&st.sig=d34f3f721d7c6c1a7b9bbcfcf797f6c78a1d790e&st.uid=582683888524&st.mq=3&st.mvid=1482018523683&st.ip=45.232.95.198&st.dla=on&st.exp=1618624335211&st.hls=on&_prevCmd=movieLayer&tkn=7381
 #EXTINF:-1,Futurama
 https://m3u-editor.com/serve/rokumaniatest/232043470
 #EXTINF:-1,South Park
