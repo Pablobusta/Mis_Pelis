@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Borat 2 (prueba)
 https://storage.googleapis.com/encoded-breaker-310502/JUUAMAIWM9KQ/st23_borat-siguiente-pelicula-documental_1.mp4
+#EXTINF:-1,Sound of metal
+https://storage.googleapis.com/encoded-breaker-310502/WJGEVRX8X2FS/st23_sound-of-metal_1.mp4
 #EXTINF:-1,Futurama
 https://m3u-editor.com/serve/rokumaniatest/232043470
 #EXTINF:-1,South Park
